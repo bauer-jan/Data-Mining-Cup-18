@@ -4,4 +4,4 @@ This repository represents a solution to an international data mining challenge 
 
 The presented solution reached place 14 out of 193 registered teams and 63 solutions that were handed in. 
 
-To run the script put the data from prudsys DMC 18 in a data folder.
+To run the script put the data from prudsys DMC 18 in a data folder. The data can be downloaded here: https://www.data-mining-cup.com/dmc-2018/
